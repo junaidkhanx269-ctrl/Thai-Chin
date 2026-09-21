@@ -1,0 +1,6 @@
+{
+  "name": "Thai Chin - Chinese Restaurant Karachi",
+  "description": "Authentic Chinese cuisine in KINGS STREET Scheme 33, Karachi. Satisfy your hunger for Chinese food. Order on WhatsApp: 0304 1363224.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
